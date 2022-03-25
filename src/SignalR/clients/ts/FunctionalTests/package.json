@@ -34,7 +34,7 @@
     "ts-node": "^8.6.2",
     "typescript": "^3.7.5",
     "webpack": "^5.23.0",
-    "ws": " ^6.0.0"
+    "ws": "6.2.2"
   },
   "scripts": {
     "preclean": "cd .. && yarn run build",
